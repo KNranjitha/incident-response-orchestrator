@@ -1,0 +1,5 @@
+POSTGRES_DB=incidentdb
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+
+JWT_SECRET=mysecretkey
